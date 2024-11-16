@@ -1,5 +1,3 @@
-# MAVEN
-Maven setup repository with step-by-step instructions and scripts for deployment on AWS EC2 Red Hat instances, optimized for DevOps practices.
 # **<span style="color:green">Maven Installation and Project Structure Guide</span>**
 
 ### **<span style="color:green">Contact Information</span>**
