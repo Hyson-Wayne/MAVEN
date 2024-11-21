@@ -1,8 +1,15 @@
 # **<span style="color:green">Maven Installation and Project Structure Guide</span>**
 
-### **<span style="color:green">Contact Information</span>**
-- **Phone:** +237 679638540
+## **<span style="color:green">Contact Information</span>**
+
+For further assistance or inquiries:
+
+- **Name**: Nditafon Hyson Nuigho
+- **Phone**: +235679638540
 - **Email:** [nditafonhysonn@gmail.com](mailto:nditafonhysonn@gmail.com)
+- **GitHub**: [https://github.com/Hyson-Wayne](https://github.com/Hyson-Wayne)
+- **LinkedIn**: [https://www.linkedin.com/in/nditafon-hyson-762a6623b/](https://www.linkedin.com/in/nditafon-hyson-762a6623b/)
+---
 
 ## **<span style="color:green">Project Overview</span>**
 This repository serves as the foundation for a Maven-based web application. It includes detailed steps for installing Apache Maven, setting up the development environment, and understanding the project directory structure.
