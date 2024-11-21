@@ -1,16 +1,17 @@
 # **<span style="color:green">Maven Installation and Project Structure Guide</span>**
+---
 
 ## **<span style="color:green">Contact Information</span>**
 
-For further assistance or inquiries:
+For further assistance or inquiries, click the buttons below:
 
-- **Name**: Nditafon Hyson Nuigho
-- **Phone**: +235679638540
-- **Email:** [nditafonhysonn@gmail.com](mailto:nditafonhysonn@gmail.com)
-- **GitHub**: [https://github.com/Hyson-Wayne](https://github.com/Hyson-Wayne)
-- **LinkedIn**: [https://www.linkedin.com/in/nditafon-hyson-762a6623b/](https://www.linkedin.com/in/nditafon-hyson-762a6623b/)
+- [![Name](https://img.shields.io/badge/Name-Nditafon%20Hyson%20Nuigho-brightgreen)](mailto:nditafonhysonn@gmail.com)
+- [![Phone](https://img.shields.io/badge/Phone-%2B235679638540-brightgreen)](tel:+235679638540)
+- [![Email](https://img.shields.io/badge/Email-nditafonhysonn%40gmail.com-blue)](mailto:nditafonhysonn@gmail.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-Hyson--Wayne-lightgrey?logo=github)](https://github.com/Hyson-Wayne)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-nditafon--hyson-blue?logo=linkedin)](https://www.linkedin.com/in/nditafon-hyson-762a6623b/)
+
 ---
-
 ## **<span style="color:green">Project Overview</span>**
 This repository serves as the foundation for a Maven-based web application. It includes detailed steps for installing Apache Maven, setting up the development environment, and understanding the project directory structure.
 
