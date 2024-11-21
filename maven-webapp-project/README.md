@@ -4,22 +4,13 @@
 
 ## **<span style="color:green">Contact Information</span>**
 
-For further assistance or inquiries:
+For further assistance or inquiries, click the buttons below:
 
-<div align="left">
-  <a href="mailto:nditafonhysonn@gmail.com" style="text-decoration:none;">
-    <button style="background-color:green;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">Email</button>
-  </a>
-  <a href="tel:+235679638540" style="text-decoration:none;">
-    <button style="background-color:blue;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">Call</button>
-  </a>
-  <a href="https://github.com/Hyson-Wayne" target="_blank" style="text-decoration:none;">
-    <button style="background-color:black;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">GitHub</button>
-  </a>
-  <a href="https://www.linkedin.com/in/nditafon-hyson-762a6623b/" target="_blank" style="text-decoration:none;">
-    <button style="background-color:#0072b1;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">LinkedIn</button>
-  </a>
-</div>
+- [![Name](https://img.shields.io/badge/Name-Nditafon%20Hyson%20Nuigho-brightgreen)](mailto:nditafonhysonn@gmail.com)
+- [![Phone](https://img.shields.io/badge/Phone-%2B235679638540-brightgreen)](tel:+235679638540)
+- [![Email](https://img.shields.io/badge/Email-nditafonhysonn%40gmail.com-blue)](mailto:nditafonhysonn@gmail.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-Hyson--Wayne-lightgrey?logo=github)](https://github.com/Hyson-Wayne)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-nditafon--hyson-blue?logo=linkedin)](https://www.linkedin.com/in/nditafon-hyson-762a6623b/)
 
 ---
 
