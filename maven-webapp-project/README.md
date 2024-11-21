@@ -1,8 +1,28 @@
 # **<span style="color:green">Maven Web Application Project</span>**
 
-### **<span style="color:green">Contact Information</span>**
-- **Phone:** +237 679638540
-- **Email:** [nditafonhysonn@gmail.com](mailto:nditafonhysonn@gmail.com)
+---
+
+## **<span style="color:green">Contact Information</span>**
+
+For further assistance or inquiries:
+
+<div align="left">
+  <a href="mailto:nditafonhysonn@gmail.com" style="text-decoration:none;">
+    <button style="background-color:green;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">Email</button>
+  </a>
+  <a href="tel:+235679638540" style="text-decoration:none;">
+    <button style="background-color:blue;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">Call</button>
+  </a>
+  <a href="https://github.com/Hyson-Wayne" target="_blank" style="text-decoration:none;">
+    <button style="background-color:black;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">GitHub</button>
+  </a>
+  <a href="https://www.linkedin.com/in/nditafon-hyson-762a6623b/" target="_blank" style="text-decoration:none;">
+    <button style="background-color:#0072b1;color:white;padding:10px 20px;border:none;border-radius:5px;cursor:pointer;">LinkedIn</button>
+  </a>
+</div>
+
+---
+
 
 ## **<span style="color:green">Project Overview</span>**
 This is a Maven-based Java web application project designed for deployment in professional environments. It includes configurations for building, testing, and running the application using Maven.
